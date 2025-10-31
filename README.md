@@ -6,3 +6,5 @@ face that gives eye but not mouth, face that has mouth, face that has ears but n
 
 2. Iranian 12th Century chess figures: 
 https://en.wikipedia.org/wiki/File:Chess_Set_MET_DP170393.jpg
+
+3. Retro games to look at for gameplay inspirations https://www.youtube.com/@oldclassicgame/videos
